@@ -8,4 +8,4 @@ I bridge the gap between scientific methodology and intelligent systems. As a Ch
 <u><b>Web:</b></u> JavaScript, PHP, HTML5, CSS3 (Full-stack architecture)<br>
 
 <h2><u><b>Current Focus:</b></u</h2><br>
-Advancing AI automation and Prompt Engineering to streamline scientific workflows through elegant, data-driven solutions.
+<h5>Advancing AI automation and Prompt Engineering to streamline scientific workflows through elegant, data-driven solutions.</h5>
