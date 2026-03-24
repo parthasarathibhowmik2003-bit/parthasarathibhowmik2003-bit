@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1><u><b>PARTHA SARATHI BHOWMIK</b></u></h1>
+<h4>Computational Chemist | AI Research Scientist | Full-Stack Developer</h4>
 
-<!--
-**parthasarathibhowmik2003-bit/parthasarathibhowmik2003-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between scientific methodology and intelligent systems. As a Chemistry Honors graduate turned AI researcher, I specialize in the intersection of Chemical Simulation and Machine Learning, building tools that are both analytically rigorous and architecturally sound.
 
-Here are some ideas to get you started:
+Technical Stack:
+AI & Data: Python, R, SQL (Predictive modeling & neural networks)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Systems: C, C++, Java (Performance-critical algorithms)
+
+Web: JavaScript, PHP, HTML5, CSS3 (Full-stack architecture)
+
+Current Focus
+Advancing AI automation and Prompt Engineering to streamline scientific workflows through elegant, data-driven solutions.
